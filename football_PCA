@@ -1,0 +1,40 @@
+rule download_league_tables:
+    output:
+        'csvs/prem.csv',
+        'csvs/national_league.csv'
+    script:
+        'scripts/League_table_obtain.py'
+
+rule tidy_tables:
+    input:
+        'csvs/prem.csv',
+        'csvs/national_league.csv'
+    output:
+        'csvs/prem_tidy.csv',
+        'csvs/national_league_tidy.csv'
+    conda:
+        'my_environment.yml'
+    shell:
+        'cut -d , -f 3-11 {input[0]} > {output[0]}; cut -d , -f 3-11 {input[1]} > {output[1]}'
+
+rule win_perc:
+    input:
+        'csvs/national_league_tidy.csv',
+        'csvs/prem_tidy.csv'
+    output:
+        'outputs/win_perc.pdf',
+        'csvs/combined_table.csv'
+    conda:
+        'my_environment.yml'
+    script:
+        'scripts/win_perc.py'
+
+rule PCA:
+    input:
+        'csvs/combined_table.csv'
+    output:
+        'outputs/PCA.pdf'
+    conda:
+        'my_environment.yml'
+    script:
+        'scripts/PCA.py'

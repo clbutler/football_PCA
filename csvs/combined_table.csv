@@ -1,0 +1,45 @@
+,Team,Pl,W,D,L,F,A,GD,Pts,Win_Perc,Position,League_name
+0,Liverpool,20,13,6,1,43,18,25,45,65.0,1,Premier League
+1,Manchester City,20,13,4,3,48,23,25,43,65.0,2,Premier League
+2,Arsenal,21,13,4,4,42,20,22,43,61.9,3,Premier League
+3,Aston Villa,21,13,4,4,43,27,16,43,61.9,4,Premier League
+4,Tottenham Hotspur,21,12,4,5,44,31,13,40,57.14,5,Premier League
+5,West Ham United,20,10,4,6,33,30,3,34,50.0,6,Premier League
+6,Manchester United,21,10,2,9,24,29,-5,32,47.62,7,Premier League
+7,Brighton and Hove Albion,20,8,7,5,38,33,5,31,40.0,8,Premier League
+8,Chelsea,21,9,4,8,35,31,4,31,42.86,9,Premier League
+9,Newcastle United,21,9,2,10,41,32,9,29,42.86,10,Premier League
+10,Wolverhampton Wanderers,20,8,4,8,30,31,-1,28,40.0,11,Premier League
+11,Bournemouth,19,7,4,8,28,35,-7,25,36.84,12,Premier League
+12,Fulham,21,7,3,11,28,36,-8,24,33.33,13,Premier League
+13,Brentford,20,6,4,10,29,33,-4,22,30.0,14,Premier League
+14,Crystal Palace,21,5,6,10,22,34,-12,21,23.81,15,Premier League
+15,Nottingham Forest,21,5,5,11,26,38,-12,20,23.81,16,Premier League
+16,Everton *,21,8,3,10,24,28,-4,17,38.1,17,Premier League
+17,Luton Town,20,4,4,12,24,38,-14,16,20.0,18,Premier League
+18,Burnley,21,3,3,15,21,42,-21,12,14.29,19,Premier League
+19,Sheffield United,20,2,3,15,15,49,-34,9,10.0,20,Premier League
+0,Chesterfield,27,22,2,3,68,34,34,68,81.48,1,National League
+1,Bromley,29,16,9,4,51,31,20,57,55.17,2,National League
+2,Barnet,28,17,4,7,57,40,17,55,60.71,3,National League
+3,Solihull Moors,27,13,7,7,43,37,6,46,48.15,4,National League
+4,Altrincham,27,11,10,6,49,38,11,43,40.74,5,National League
+5,Oldham Athletic,27,11,9,7,43,38,5,42,40.74,6,National League
+6,Rochdale,28,11,8,9,46,39,7,41,39.29,7,National League
+7,Gateshead,27,11,7,9,50,39,11,40,40.74,8,National League
+8,FC Halifax,27,10,10,7,30,27,3,40,37.04,9,National League
+9,Aldershot Town,27,12,4,11,47,51,-4,40,44.44,10,National League
+10,Eastleigh,27,10,7,10,46,50,-4,37,37.04,11,National League
+11,Southend United,27,13,5,9,44,28,16,34,48.15,12,National League
+12,Hartlepool United,29,10,4,15,45,55,-10,34,34.48,13,National League
+13,Wealdstone,25,9,6,10,34,36,-2,33,36.0,14,National League
+14,Boreham Wood,28,7,12,9,35,44,-9,33,25.0,15,National League
+15,Maidenhead United,27,7,11,9,28,35,-7,32,25.93,16,National League
+16,Dorking Wanderers,27,9,4,14,31,45,-14,31,33.33,17,National League
+17,Dagenham & Redbridge,27,8,6,13,34,39,-5,30,29.63,18,National League
+18,York City,27,6,12,9,36,44,-8,30,22.22,19,National League
+19,Woking,27,7,6,14,28,37,-9,27,25.93,20,National League
+20,Ebbsfleet United,29,7,6,16,37,55,-18,27,24.14,21,National League
+21,AFC Fylde,27,6,7,14,39,50,-11,25,22.22,22,National League
+22,Oxford City,28,6,6,16,40,54,-14,24,21.43,23,National League
+23,Kidderminster Harriers,29,5,8,16,24,39,-15,23,17.24,24,National League
